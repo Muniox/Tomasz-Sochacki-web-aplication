@@ -14,6 +14,8 @@ function overrideParametrs(a, b, a) {
 }
 overrideParametrs(1, 2, 3);
 
+//this do obiektu globalnego
+
 /**
  *
  * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
