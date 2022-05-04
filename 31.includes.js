@@ -1,3 +1,5 @@
+//includes znajduje się w prototype
+
 str = "jakiś przykładowy tekst.";
 
 str.includes("przykładowy"); //true
@@ -10,3 +12,13 @@ str.includes("przykładowy", 6); //true
 //najlepsza metoda uzycia:
 
 str.toLowerCase().includes("przykładowy"); //true
+
+
+//includes działa również na tablicach 
+const pets = ['cat', 'dog', 'bat'];
+
+console.log(pets.includes('cat'));
+// expected output: true
+
+console.log(pets.includes('at'));
+// expected output: false
