@@ -19,3 +19,6 @@ class Person2 {
     return `Mam ${this.age} lat.`;
   }
 }
+
+
+//za pomocą delete usuwamy pola i wartośc z klasy
