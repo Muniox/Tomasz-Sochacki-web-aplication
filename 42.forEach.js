@@ -11,3 +11,6 @@ letters.forEach((value, index, arr) => {
 //Wartość: a, index: 0
 //Wartość: b, index: 1
 //Wartość: c, index: 2
+
+//forEach modyfikuje tablicę
+//forEach jest mutowalny
