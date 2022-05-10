@@ -67,3 +67,10 @@ roundHalf(3.4); //3.5
 roundHalf(3.8); //4
 
 //liczby losowe
+
+Math.random(); // liczba losowa z zakresu od 0 do 1 (łącznie z zerem, lecz bez jedynki)
+
+//potęgowanie
+
+2 ** 3; //8
+Math.pow(2, 3); //8
